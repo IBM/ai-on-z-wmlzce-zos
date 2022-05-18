@@ -1,3 +1,5 @@
 # MAINTAINERS
 
-Christopher Ferris - chrisfer@us.ibm.com
+Andrew Sica - andrewsi@us.ibm.com
+
+Tyler Rimaldi - tyler.rimaldi@ibm.com
