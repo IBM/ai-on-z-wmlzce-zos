@@ -52,7 +52,7 @@ public class Session {
     * It will need changes to support different models and other configurations.
     *
     * WMLz OSCE API documentation can be found here:
-    * https://www.ibm.com/docs/en/wml-for-zos/2.1.0.2?topic=wml-zos-apis
+    * https://www.ibm.com/products/machine-learning-for-zos
     *
     * @param inTensor  the input to run a predicition against the model.
     * @return          a string containing the predicition
