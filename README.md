@@ -13,7 +13,7 @@ So, will use a Makefile to compile and to run the Java app. The required `.jar` 
 
 ## Deploying an instance of IBM Watson® Machine Learning for z/OS 
 
-WMLz OSCE is available under trail. To deploy an instance, please follow the instructions and documentation found [here](https://www.ibm.com/products/machine-learning-for-zos)
+WMLz OSCE is available under trial. To deploy an instance, please follow the instructions and documentation found [here](https://www.ibm.com/products/machine-learning-for-zos)
 
 ## Updating and Deploying the z/OS Java Application
 
